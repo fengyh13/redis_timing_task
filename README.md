@@ -1,1 +1,2 @@
 # redis_timing_task
+利用redis键空间通知的机制实现定时任务
